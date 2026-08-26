@@ -1,4 +1,7 @@
 import os
+import json
+import time
+from datetime import datetime, timezone
 import google.generativeai as genai
 from dotenv import load_dotenv
 from prompts import prompts
@@ -15,11 +18,26 @@ def ask_gemini(prompt):
 
 
 if __name__ == "__main__":
-    test_prompts = prompts[:3]
+    results = []
 
-    for p in test_prompts:
-        print(f"PROMPT: {p}")
-        print(f"RESPONSE: {ask_gemini(p)}")
-        print("-" * 41)
+    for i, p in enumerate(prompts):
+        print(f"[{i+1}/{len(prompts)}] {p}")
+        try:
+            answer = ask_gemini(p)
+        except Exception as e:
+            print(f"Error for prompt '{p}': {e}")
+            answer = None
 
+        results.append({
+            "prompt": p,
+            "response": answer,
+            "model": "gemini-3.6-flash",
+            "timestamp": datetime.now(timezone.utc).isoformat()
+        })
 
+        time.sleep(2)
+
+    with open("results.json", "w") as f:
+        json.dump(results, f, indent=2)
+
+    print(f"Done. Saved {len(results)} results to results.json")
