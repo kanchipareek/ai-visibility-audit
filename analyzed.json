@@ -1,0 +1,554 @@
+[
+  {
+    "prompt": "what's the best helpdesk software right now",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:39:49.886845+00:00",
+    "mentions": [
+      {
+        "brand": "Zendesk",
+        "char_position": 325
+      },
+      {
+        "brand": "Freshdesk",
+        "char_position": 982
+      },
+      {
+        "brand": "Intercom",
+        "char_position": 2338
+      },
+      {
+        "brand": "Gorgias",
+        "char_position": 3063
+      },
+      {
+        "brand": "Help Scout",
+        "char_position": 3676
+      }
+    ],
+    "mention_count": 5
+  },
+  {
+    "prompt": "best customer support tool for a small ecommerce shop",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:40:06.086976+00:00",
+    "mentions": [
+      {
+        "brand": "Gorgias",
+        "char_position": 282
+      },
+      {
+        "brand": "Help Scout",
+        "char_position": 1645
+      }
+    ],
+    "mention_count": 2
+  },
+  {
+    "prompt": "I run a Shopify store and need a help desk that doesn't cost a fortune, what do you recommend",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:40:56.335194+00:00",
+    "mentions": [
+      {
+        "brand": "Gorgias",
+        "char_position": 68
+      },
+      {
+        "brand": "Freshdesk",
+        "char_position": 3060
+      }
+    ],
+    "mention_count": 2
+  },
+  {
+    "prompt": "we're a 15 person startup, what helpdesk should we use",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:41:27.669593+00:00",
+    "mentions": [
+      {
+        "brand": "Help Scout",
+        "char_position": 331
+      },
+      {
+        "brand": "Intercom",
+        "char_position": 903
+      },
+      {
+        "brand": "Gorgias",
+        "char_position": 1735
+      },
+      {
+        "brand": "Freshdesk",
+        "char_position": 2723
+      },
+      {
+        "brand": "Zendesk",
+        "char_position": 2740
+      }
+    ],
+    "mention_count": 5
+  },
+  {
+    "prompt": "what customer service software do most SaaS companies use",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:42:18.973003+00:00",
+    "mentions": [
+      {
+        "brand": "Intercom",
+        "char_position": 632
+      },
+      {
+        "brand": "Zendesk",
+        "char_position": 1153
+      },
+      {
+        "brand": "Help Scout",
+        "char_position": 1689
+      },
+      {
+        "brand": "Freshdesk",
+        "char_position": 2160
+      }
+    ],
+    "mention_count": 4
+  },
+  {
+    "prompt": "is there a helpdesk tool that's actually good for solo founders",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:42:53.893219+00:00",
+    "mentions": [
+      {
+        "brand": "Zendesk",
+        "char_position": 33
+      },
+      {
+        "brand": "Help Scout",
+        "char_position": 1335
+      },
+      {
+        "brand": "Intercom",
+        "char_position": 3777
+      },
+      {
+        "brand": "Freshdesk",
+        "char_position": 4344
+      }
+    ],
+    "mention_count": 4
+  },
+  {
+    "prompt": "best support software for a subscription box company",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:43:29.897681+00:00",
+    "mentions": [
+      {
+        "brand": "Gorgias",
+        "char_position": 540
+      },
+      {
+        "brand": "Help Scout",
+        "char_position": 1728
+      },
+      {
+        "brand": "Zendesk",
+        "char_position": 2651
+      },
+      {
+        "brand": "Freshdesk",
+        "char_position": 3522
+      }
+    ],
+    "mention_count": 4
+  },
+  {
+    "prompt": "we're outgrowing our current helpdesk, what should we switch to",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:44:00.452632+00:00",
+    "mentions": [
+      {
+        "brand": "Help Scout",
+        "char_position": 271
+      },
+      {
+        "brand": "Zendesk",
+        "char_position": 424
+      },
+      {
+        "brand": "Freshdesk",
+        "char_position": 862
+      },
+      {
+        "brand": "Intercom",
+        "char_position": 1313
+      },
+      {
+        "brand": "Gorgias",
+        "char_position": 2706
+      }
+    ],
+    "mention_count": 5
+  },
+  {
+    "prompt": "our support tickets are a mess in Gmail, what should we move to",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:44:14.690297+00:00",
+    "mentions": [
+      {
+        "brand": "Help Scout",
+        "char_position": 587
+      },
+      {
+        "brand": "Freshdesk",
+        "char_position": 1596
+      },
+      {
+        "brand": "Zendesk",
+        "char_position": 2022
+      },
+      {
+        "brand": "Gorgias",
+        "char_position": 2460
+      }
+    ],
+    "mention_count": 4
+  },
+  {
+    "prompt": "alternatives to Zendesk that aren't as expensive",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:44:44.682752+00:00",
+    "mentions": [
+      {
+        "brand": "Zendesk",
+        "char_position": 0
+      },
+      {
+        "brand": "Freshdesk",
+        "char_position": 274
+      },
+      {
+        "brand": "Help Scout",
+        "char_position": 1466
+      },
+      {
+        "brand": "Gorgias",
+        "char_position": 3171
+      }
+    ],
+    "mention_count": 4
+  },
+  {
+    "prompt": "I hate how clunky Freshdesk feels, is there something simpler",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:45:33.527454+00:00",
+    "mentions": [
+      {
+        "brand": "Freshdesk",
+        "char_position": 30
+      },
+      {
+        "brand": "Zendesk",
+        "char_position": 66
+      },
+      {
+        "brand": "Help Scout",
+        "char_position": 556
+      }
+    ],
+    "mention_count": 3
+  },
+  {
+    "prompt": "is it worth switching from Help Scout to something with more automation",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:45:52.681747+00:00",
+    "mentions": [
+      {
+        "brand": "Help Scout",
+        "char_position": 35
+      },
+      {
+        "brand": "Gorgias",
+        "char_position": 1264
+      },
+      {
+        "brand": "Intercom",
+        "char_position": 2740
+      },
+      {
+        "brand": "Zendesk",
+        "char_position": 3432
+      },
+      {
+        "brand": "Freshdesk",
+        "char_position": 3722
+      }
+    ],
+    "mention_count": 5
+  },
+  {
+    "prompt": "what do people switch to after Kustomer",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:46:36.349932+00:00",
+    "mentions": [
+      {
+        "brand": "Kustomer",
+        "char_position": 32
+      },
+      {
+        "brand": "Gorgias",
+        "char_position": 633
+      },
+      {
+        "brand": "Zendesk",
+        "char_position": 1482
+      },
+      {
+        "brand": "Intercom",
+        "char_position": 2435
+      },
+      {
+        "brand": "Freshdesk",
+        "char_position": 2905
+      }
+    ],
+    "mention_count": 5
+  },
+  {
+    "prompt": "we outgrew Gorgias, what's next for a bigger ecommerce brand",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:47:15.730340+00:00",
+    "mentions": [
+      {
+        "brand": "Gorgias",
+        "char_position": 11
+      },
+      {
+        "brand": "Kustomer",
+        "char_position": 1411
+      },
+      {
+        "brand": "Zendesk",
+        "char_position": 2310
+      },
+      {
+        "brand": "Intercom",
+        "char_position": 3413
+      }
+    ],
+    "mention_count": 4
+  },
+  {
+    "prompt": "Zendesk vs Intercom, which is actually better in 2026",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:47:41.331317+00:00",
+    "mentions": [
+      {
+        "brand": "Zendesk",
+        "char_position": 21
+      },
+      {
+        "brand": "Intercom",
+        "char_position": 37
+      }
+    ],
+    "mention_count": 2
+  },
+  {
+    "prompt": "Help Scout or Freshdesk for a small team",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:48:14.618809+00:00",
+    "mentions": [
+      {
+        "brand": "Help Scout",
+        "char_position": 25
+      },
+      {
+        "brand": "Freshdesk",
+        "char_position": 44
+      }
+    ],
+    "mention_count": 2
+  },
+  {
+    "prompt": "is Gorgias worth it over Zendesk for an online store",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:48:35.399249+00:00",
+    "mentions": [
+      {
+        "brand": "Gorgias",
+        "char_position": 107
+      },
+      {
+        "brand": "Zendesk",
+        "char_position": 132
+      }
+    ],
+    "mention_count": 2
+  },
+  {
+    "prompt": "Intercom vs Kustomer for a mid size company",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:48:37.755827+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "how does Freshdesk compare to Zendesk on pricing",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:48:40.007913+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "Kustomer vs Zendesk, honest opinion",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:48:42.486104+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "which helpdesk has the best AI chatbot built in",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:48:44.816993+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "does Intercom's AI actually resolve tickets or just answer FAQs",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:48:47.089670+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "best helpdesk with AI that can process refunds automatically",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:48:49.287507+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "is Zendesk's AI agent any good or just marketing",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:48:51.488813+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "which support tool has AI that won't make stuff up to customers",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:48:53.676111+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "what helpdesk AI features are actually worth paying extra for",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:48:55.977218+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "can Freshdesk's AI handle multiple languages well",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:48:58.227242+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "cheapest helpdesk software that isn't total garbage",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:49:00.487693+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "best free or low cost customer support tool for a bootstrapped startup",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:49:02.742276+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "what helpdesk makes sense once you have like 5 support agents",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:49:04.987893+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "is there a good helpdesk under $50 a month per seat",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:49:07.242323+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "enterprise helpdesk software, what are the top options",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:49:09.495197+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "best helpdesk that integrates well with Shopify",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:49:11.747577+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "what support tool works best with Salesforce",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:49:14.000683+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "helpdesk software with good WhatsApp support",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:49:16.251830+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "best customer service tool for a company doing both email and live chat",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:49:18.509091+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "which helpdesk plays nice with Slack for internal escalations",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:49:20.791462+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "we're stuck between Zendesk and Intercom, how do we decide",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:49:23.111904+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "is it too early for us to need a real helpdesk, we're only 3 people",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:49:25.365672+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "what should I actually look for when picking customer support software",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:49:27.542027+00:00",
+    "mentions": [],
+    "mention_count": 0
+  },
+  {
+    "prompt": "how do I know if a helpdesk is right for my business",
+    "model": "gemini-3.6-flash",
+    "timestamp": "2026-08-26T04:49:29.778266+00:00",
+    "mentions": [],
+    "mention_count": 0
+  }
+]
