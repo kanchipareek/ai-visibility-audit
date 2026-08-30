@@ -1,0 +1,1820 @@
+[
+  {
+    "prompt": "what's the best helpdesk software right now",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "what's the best helpdesk software right now",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "what's the best helpdesk software right now",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Intercom",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "what's the best helpdesk software right now",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Gorgias",
+    "sentiment": "positive",
+    "position": 4,
+    "citations": []
+  },
+  {
+    "prompt": "what's the best helpdesk software right now",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 5,
+    "citations": []
+  },
+  {
+    "prompt": "best customer support tool for a small ecommerce shop",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Gorgias",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "best customer support tool for a small ecommerce shop",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "I run a Shopify store and need a help desk that doesn't cost a fortune, what do you recommend",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Gorgias",
+    "sentiment": "negative",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "I run a Shopify store and need a help desk that doesn't cost a fortune, what do you recommend",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 6,
+    "citations": []
+  },
+  {
+    "prompt": "we're a 15 person startup, what helpdesk should we use",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "we're a 15 person startup, what helpdesk should we use",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Intercom",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "we're a 15 person startup, what helpdesk should we use",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Gorgias",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "we're a 15 person startup, what helpdesk should we use",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 4,
+    "citations": []
+  },
+  {
+    "prompt": "we're a 15 person startup, what helpdesk should we use",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 5,
+    "citations": []
+  },
+  {
+    "prompt": "what customer service software do most SaaS companies use",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Intercom",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "what customer service software do most SaaS companies use",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "what customer service software do most SaaS companies use",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "what customer service software do most SaaS companies use",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 4,
+    "citations": []
+  },
+  {
+    "prompt": "is there a helpdesk tool that's actually good for solo founders",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Zendesk",
+    "sentiment": "negative",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "is there a helpdesk tool that's actually good for solo founders",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "is there a helpdesk tool that's actually good for solo founders",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Intercom",
+    "sentiment": "negative",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "is there a helpdesk tool that's actually good for solo founders",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Freshdesk",
+    "sentiment": "negative",
+    "position": 4,
+    "citations": []
+  },
+  {
+    "prompt": "best support software for a subscription box company",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Gorgias",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "best support software for a subscription box company",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "best support software for a subscription box company",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "best support software for a subscription box company",
+    "category": "general",
+    "model": "gemini",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 4,
+    "citations": []
+  },
+  {
+    "prompt": "we're outgrowing our current helpdesk, what should we switch to",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Help Scout",
+    "sentiment": "neutral",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "we're outgrowing our current helpdesk, what should we switch to",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "we're outgrowing our current helpdesk, what should we switch to",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "we're outgrowing our current helpdesk, what should we switch to",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Intercom",
+    "sentiment": "positive",
+    "position": 4,
+    "citations": []
+  },
+  {
+    "prompt": "we're outgrowing our current helpdesk, what should we switch to",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Gorgias",
+    "sentiment": "positive",
+    "position": 7,
+    "citations": []
+  },
+  {
+    "prompt": "our support tickets are a mess in Gmail, what should we move to",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "our support tickets are a mess in Gmail, what should we move to",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "our support tickets are a mess in Gmail, what should we move to",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "our support tickets are a mess in Gmail, what should we move to",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Gorgias",
+    "sentiment": "positive",
+    "position": 4,
+    "citations": []
+  },
+  {
+    "prompt": "alternatives to Zendesk that aren't as expensive",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Zendesk",
+    "sentiment": "negative",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "alternatives to Zendesk that aren't as expensive",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "alternatives to Zendesk that aren't as expensive",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 4,
+    "citations": []
+  },
+  {
+    "prompt": "alternatives to Zendesk that aren't as expensive",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Gorgias",
+    "sentiment": "positive",
+    "position": 7,
+    "citations": []
+  },
+  {
+    "prompt": "I hate how clunky Freshdesk feels, is there something simpler",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Freshdesk",
+    "sentiment": "negative",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "I hate how clunky Freshdesk feels, is there something simpler",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Zendesk",
+    "sentiment": "negative",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "I hate how clunky Freshdesk feels, is there something simpler",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "is it worth switching from Help Scout to something with more automation",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Help Scout",
+    "sentiment": "neutral",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "is it worth switching from Help Scout to something with more automation",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Gorgias",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "is it worth switching from Help Scout to something with more automation",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Intercom",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "is it worth switching from Help Scout to something with more automation",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 4,
+    "citations": []
+  },
+  {
+    "prompt": "is it worth switching from Help Scout to something with more automation",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 5,
+    "citations": []
+  },
+  {
+    "prompt": "what do people switch to after Kustomer",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Kustomer",
+    "sentiment": "neutral",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "what do people switch to after Kustomer",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Gorgias",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "what do people switch to after Kustomer",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "what do people switch to after Kustomer",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Intercom",
+    "sentiment": "positive",
+    "position": 4,
+    "citations": []
+  },
+  {
+    "prompt": "what do people switch to after Kustomer",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 5,
+    "citations": []
+  },
+  {
+    "prompt": "we outgrew Gorgias, what's next for a bigger ecommerce brand",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Gorgias",
+    "sentiment": "neutral",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "we outgrew Gorgias, what's next for a bigger ecommerce brand",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Kustomer",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "we outgrew Gorgias, what's next for a bigger ecommerce brand",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 4,
+    "citations": []
+  },
+  {
+    "prompt": "we outgrew Gorgias, what's next for a bigger ecommerce brand",
+    "category": "switching",
+    "model": "gemini",
+    "brand": "Intercom",
+    "sentiment": "positive",
+    "position": 5,
+    "citations": []
+  },
+  {
+    "prompt": "Zendesk vs Intercom, which is actually better in 2026",
+    "category": "comparisons",
+    "model": "gemini",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "Zendesk vs Intercom, which is actually better in 2026",
+    "category": "comparisons",
+    "model": "gemini",
+    "brand": "Intercom",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "Help Scout or Freshdesk for a small team",
+    "category": "comparisons",
+    "model": "gemini",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "Help Scout or Freshdesk for a small team",
+    "category": "comparisons",
+    "model": "gemini",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "is Gorgias worth it over Zendesk for an online store",
+    "category": "comparisons",
+    "model": "gemini",
+    "brand": "Gorgias",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "is Gorgias worth it over Zendesk for an online store",
+    "category": "comparisons",
+    "model": "gemini",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "what's the best helpdesk software right now",
+    "category": "general",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "what's the best helpdesk software right now",
+    "category": "general",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "what's the best helpdesk software right now",
+    "category": "general",
+    "model": "openai",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "best customer support tool for a small ecommerce shop",
+    "category": "general",
+    "model": "openai",
+    "brand": "Gorgias",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "best customer support tool for a small ecommerce shop",
+    "category": "general",
+    "model": "openai",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "best customer support tool for a small ecommerce shop",
+    "category": "general",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "best customer support tool for a small ecommerce shop",
+    "category": "general",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 4,
+    "citations": []
+  },
+  {
+    "prompt": "I run a Shopify store and need a help desk that doesn't cost a fortune, what do you recommend",
+    "category": "general",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "I run a Shopify store and need a help desk that doesn't cost a fortune, what do you recommend",
+    "category": "general",
+    "model": "openai",
+    "brand": "Gorgias",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "I run a Shopify store and need a help desk that doesn't cost a fortune, what do you recommend",
+    "category": "general",
+    "model": "openai",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "I run a Shopify store and need a help desk that doesn't cost a fortune, what do you recommend",
+    "category": "general",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 4,
+    "citations": []
+  },
+  {
+    "prompt": "we're a 15 person startup, what helpdesk should we use",
+    "category": "general",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "we're a 15 person startup, what helpdesk should we use",
+    "category": "general",
+    "model": "openai",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "we're a 15 person startup, what helpdesk should we use",
+    "category": "general",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "we're a 15 person startup, what helpdesk should we use",
+    "category": "general",
+    "model": "openai",
+    "brand": "Intercom",
+    "sentiment": "positive",
+    "position": 4,
+    "citations": []
+  },
+  {
+    "prompt": "what customer service software do most SaaS companies use",
+    "category": "general",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "what customer service software do most SaaS companies use",
+    "category": "general",
+    "model": "openai",
+    "brand": "Intercom",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "what customer service software do most SaaS companies use",
+    "category": "general",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "what customer service software do most SaaS companies use",
+    "category": "general",
+    "model": "openai",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 4,
+    "citations": []
+  },
+  {
+    "prompt": "is there a helpdesk tool that's actually good for solo founders",
+    "category": "general",
+    "model": "openai",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "is there a helpdesk tool that's actually good for solo founders",
+    "category": "general",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "is there a helpdesk tool that's actually good for solo founders",
+    "category": "general",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "best support software for a subscription box company",
+    "category": "general",
+    "model": "openai",
+    "brand": "Gorgias",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "best support software for a subscription box company",
+    "category": "general",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "best support software for a subscription box company",
+    "category": "general",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "best support software for a subscription box company",
+    "category": "general",
+    "model": "openai",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 4,
+    "citations": []
+  },
+  {
+    "prompt": "best support software for a subscription box company",
+    "category": "general",
+    "model": "openai",
+    "brand": "Kustomer",
+    "sentiment": "positive",
+    "position": 5,
+    "citations": []
+  },
+  {
+    "prompt": "best support software for a subscription box company",
+    "category": "general",
+    "model": "openai",
+    "brand": "Intercom",
+    "sentiment": "positive",
+    "position": 6,
+    "citations": []
+  },
+  {
+    "prompt": "we're outgrowing our current helpdesk, what should we switch to",
+    "category": "switching",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "we're outgrowing our current helpdesk, what should we switch to",
+    "category": "switching",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "we're outgrowing our current helpdesk, what should we switch to",
+    "category": "switching",
+    "model": "openai",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "our support tickets are a mess in Gmail, what should we move to",
+    "category": "switching",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "our support tickets are a mess in Gmail, what should we move to",
+    "category": "switching",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "alternatives to Zendesk that aren't as expensive",
+    "category": "switching",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "neutral",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "alternatives to Zendesk that aren't as expensive",
+    "category": "switching",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "alternatives to Zendesk that aren't as expensive",
+    "category": "switching",
+    "model": "openai",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "I hate how clunky Freshdesk feels, is there something simpler",
+    "category": "switching",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "negative",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "I hate how clunky Freshdesk feels, is there something simpler",
+    "category": "switching",
+    "model": "openai",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "is it worth switching from Help Scout to something with more automation",
+    "category": "switching",
+    "model": "openai",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "what do people switch to after Kustomer",
+    "category": "switching",
+    "model": "openai",
+    "brand": "Kustomer",
+    "sentiment": "neutral",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "what do people switch to after Kustomer",
+    "category": "switching",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "what do people switch to after Kustomer",
+    "category": "switching",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "what do people switch to after Kustomer",
+    "category": "switching",
+    "model": "openai",
+    "brand": "Intercom",
+    "sentiment": "positive",
+    "position": 4,
+    "citations": []
+  },
+  {
+    "prompt": "what do people switch to after Kustomer",
+    "category": "switching",
+    "model": "openai",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 5,
+    "citations": []
+  },
+  {
+    "prompt": "what do people switch to after Kustomer",
+    "category": "switching",
+    "model": "openai",
+    "brand": "Gorgias",
+    "sentiment": "positive",
+    "position": 6,
+    "citations": []
+  },
+  {
+    "prompt": "we outgrew Gorgias, what's next for a bigger ecommerce brand",
+    "category": "switching",
+    "model": "openai",
+    "brand": "Gorgias",
+    "sentiment": "neutral",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "we outgrew Gorgias, what's next for a bigger ecommerce brand",
+    "category": "switching",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "we outgrew Gorgias, what's next for a bigger ecommerce brand",
+    "category": "switching",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "Zendesk vs Intercom, which is actually better in 2026",
+    "category": "comparisons",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "Zendesk vs Intercom, which is actually better in 2026",
+    "category": "comparisons",
+    "model": "openai",
+    "brand": "Intercom",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "Help Scout or Freshdesk for a small team",
+    "category": "comparisons",
+    "model": "openai",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "Help Scout or Freshdesk for a small team",
+    "category": "comparisons",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "is Gorgias worth it over Zendesk for an online store",
+    "category": "comparisons",
+    "model": "openai",
+    "brand": "Gorgias",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "is Gorgias worth it over Zendesk for an online store",
+    "category": "comparisons",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "Intercom vs Kustomer for a mid size company",
+    "category": "comparisons",
+    "model": "openai",
+    "brand": "Intercom",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "Intercom vs Kustomer for a mid size company",
+    "category": "comparisons",
+    "model": "openai",
+    "brand": "Kustomer",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "Intercom vs Kustomer for a mid size company",
+    "category": "comparisons",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "how does Freshdesk compare to Zendesk on pricing",
+    "category": "comparisons",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "neutral",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "how does Freshdesk compare to Zendesk on pricing",
+    "category": "comparisons",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "neutral",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "Kustomer vs Zendesk, honest opinion",
+    "category": "comparisons",
+    "model": "openai",
+    "brand": "Kustomer",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "Kustomer vs Zendesk, honest opinion",
+    "category": "comparisons",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "which helpdesk has the best AI chatbot built in",
+    "category": "ai_features",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "which helpdesk has the best AI chatbot built in",
+    "category": "ai_features",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "which helpdesk has the best AI chatbot built in",
+    "category": "ai_features",
+    "model": "openai",
+    "brand": "Intercom",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "does Intercom's AI actually resolve tickets or just answer FAQs",
+    "category": "ai_features",
+    "model": "openai",
+    "brand": "Intercom",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "best helpdesk with AI that can process refunds automatically",
+    "category": "ai_features",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "best helpdesk with AI that can process refunds automatically",
+    "category": "ai_features",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "is Zendesk's AI agent any good or just marketing",
+    "category": "ai_features",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "which support tool has AI that won't make stuff up to customers",
+    "category": "ai_features",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "can Freshdesk's AI handle multiple languages well",
+    "category": "ai_features",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "cheapest helpdesk software that isn't total garbage",
+    "category": "budget_size",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "best free or low cost customer support tool for a bootstrapped startup",
+    "category": "budget_size",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "what helpdesk makes sense once you have like 5 support agents",
+    "category": "budget_size",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "what helpdesk makes sense once you have like 5 support agents",
+    "category": "budget_size",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "what helpdesk makes sense once you have like 5 support agents",
+    "category": "budget_size",
+    "model": "openai",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "is there a good helpdesk under $50 a month per seat",
+    "category": "budget_size",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "is there a good helpdesk under $50 a month per seat",
+    "category": "budget_size",
+    "model": "openai",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "is there a good helpdesk under $50 a month per seat",
+    "category": "budget_size",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "enterprise helpdesk software, what are the top options",
+    "category": "budget_size",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "best helpdesk that integrates well with Shopify",
+    "category": "integrations_use_cases",
+    "model": "openai",
+    "brand": "Gorgias",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "best helpdesk that integrates well with Shopify",
+    "category": "integrations_use_cases",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "best helpdesk that integrates well with Shopify",
+    "category": "integrations_use_cases",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "best helpdesk that integrates well with Shopify",
+    "category": "integrations_use_cases",
+    "model": "openai",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 4,
+    "citations": []
+  },
+  {
+    "prompt": "what support tool works best with Salesforce",
+    "category": "integrations_use_cases",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "what support tool works best with Salesforce",
+    "category": "integrations_use_cases",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "what support tool works best with Salesforce",
+    "category": "integrations_use_cases",
+    "model": "openai",
+    "brand": "Intercom",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "what support tool works best with Salesforce",
+    "category": "integrations_use_cases",
+    "model": "openai",
+    "brand": "Help Scout",
+    "sentiment": "positive",
+    "position": 4,
+    "citations": []
+  },
+  {
+    "prompt": "helpdesk software with good WhatsApp support",
+    "category": "integrations_use_cases",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "helpdesk software with good WhatsApp support",
+    "category": "integrations_use_cases",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "best customer service tool for a company doing both email and live chat",
+    "category": "integrations_use_cases",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "best customer service tool for a company doing both email and live chat",
+    "category": "integrations_use_cases",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "best customer service tool for a company doing both email and live chat",
+    "category": "integrations_use_cases",
+    "model": "openai",
+    "brand": "Gorgias",
+    "sentiment": "positive",
+    "position": 3,
+    "citations": []
+  },
+  {
+    "prompt": "best customer service tool for a company doing both email and live chat",
+    "category": "integrations_use_cases",
+    "model": "openai",
+    "brand": "Intercom",
+    "sentiment": "positive",
+    "position": 4,
+    "citations": []
+  },
+  {
+    "prompt": "which helpdesk plays nice with Slack for internal escalations",
+    "category": "integrations_use_cases",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "which helpdesk plays nice with Slack for internal escalations",
+    "category": "integrations_use_cases",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "we're stuck between Zendesk and Intercom, how do we decide",
+    "category": "decision_stage",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "we're stuck between Zendesk and Intercom, how do we decide",
+    "category": "decision_stage",
+    "model": "openai",
+    "brand": "Intercom",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "is it too early for us to need a real helpdesk, we're only 3 people",
+    "category": "decision_stage",
+    "model": "openai",
+    "brand": "Freshdesk",
+    "sentiment": "positive",
+    "position": 1,
+    "citations": []
+  },
+  {
+    "prompt": "is it too early for us to need a real helpdesk, we're only 3 people",
+    "category": "decision_stage",
+    "model": "openai",
+    "brand": "Zendesk",
+    "sentiment": "positive",
+    "position": 2,
+    "citations": []
+  },
+  {
+    "prompt": "what's the best helpdesk software right now",
+    "category": "general",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "best customer support tool for a small ecommerce shop",
+    "category": "general",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "I run a Shopify store and need a help desk that doesn't cost a fortune, what do you recommend",
+    "category": "general",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "we're a 15 person startup, what helpdesk should we use",
+    "category": "general",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "what customer service software do most SaaS companies use",
+    "category": "general",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "is there a helpdesk tool that's actually good for solo founders",
+    "category": "general",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "best support software for a subscription box company",
+    "category": "general",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "we're outgrowing our current helpdesk, what should we switch to",
+    "category": "switching",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "our support tickets are a mess in Gmail, what should we move to",
+    "category": "switching",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "alternatives to Zendesk that aren't as expensive",
+    "category": "switching",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "I hate how clunky Freshdesk feels, is there something simpler",
+    "category": "switching",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "is it worth switching from Help Scout to something with more automation",
+    "category": "switching",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "what do people switch to after Kustomer",
+    "category": "switching",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "we outgrew Gorgias, what's next for a bigger ecommerce brand",
+    "category": "switching",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "Zendesk vs Intercom, which is actually better in 2026",
+    "category": "comparisons",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "Help Scout or Freshdesk for a small team",
+    "category": "comparisons",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "is Gorgias worth it over Zendesk for an online store",
+    "category": "comparisons",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "Intercom vs Kustomer for a mid size company",
+    "category": "comparisons",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "how does Freshdesk compare to Zendesk on pricing",
+    "category": "comparisons",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "Kustomer vs Zendesk, honest opinion",
+    "category": "comparisons",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "which helpdesk has the best AI chatbot built in",
+    "category": "ai_features",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "does Intercom's AI actually resolve tickets or just answer FAQs",
+    "category": "ai_features",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "best helpdesk with AI that can process refunds automatically",
+    "category": "ai_features",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "is Zendesk's AI agent any good or just marketing",
+    "category": "ai_features",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "which support tool has AI that won't make stuff up to customers",
+    "category": "ai_features",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "what helpdesk AI features are actually worth paying extra for",
+    "category": "ai_features",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "can Freshdesk's AI handle multiple languages well",
+    "category": "ai_features",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "cheapest helpdesk software that isn't total garbage",
+    "category": "budget_size",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "best free or low cost customer support tool for a bootstrapped startup",
+    "category": "budget_size",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "what helpdesk makes sense once you have like 5 support agents",
+    "category": "budget_size",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "is there a good helpdesk under $50 a month per seat",
+    "category": "budget_size",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "enterprise helpdesk software, what are the top options",
+    "category": "budget_size",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "best helpdesk that integrates well with Shopify",
+    "category": "integrations_use_cases",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "what support tool works best with Salesforce",
+    "category": "integrations_use_cases",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "helpdesk software with good WhatsApp support",
+    "category": "integrations_use_cases",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "best customer service tool for a company doing both email and live chat",
+    "category": "integrations_use_cases",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "which helpdesk plays nice with Slack for internal escalations",
+    "category": "integrations_use_cases",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "we're stuck between Zendesk and Intercom, how do we decide",
+    "category": "decision_stage",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "is it too early for us to need a real helpdesk, we're only 3 people",
+    "category": "decision_stage",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "what should I actually look for when picking customer support software",
+    "category": "decision_stage",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  },
+  {
+    "prompt": "how do I know if a helpdesk is right for my business",
+    "category": "decision_stage",
+    "model": "perplexity",
+    "brand": null,
+    "sentiment": null,
+    "position": null,
+    "citations": []
+  }
+]
