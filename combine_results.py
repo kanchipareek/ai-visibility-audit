@@ -44,22 +44,36 @@ for entry in openai_data:
         "citations": [],
     })
 
-# --- Perplexity: already flat, has citations instead of position ---
+# --- Perplexity: nested brands_mentions (same pattern as gemini) ---
 with open(FILES["perplexity"]) as f:
     perplexity_data = json.load(f)
+
 
 for entry in perplexity_data:
     prompt = entry["prompt"]
     category = PROMPTS_TO_CATEGORY.get(prompt, "uncategorized")
-    rows.append({
-        "prompt": prompt,
-        "category": category,
-        "model": "perplexity",
-        "brand": entry.get("brand"),
-        "sentiment": entry.get("sentiment"),
-        "position": None,
-        "citations": entry.get("citations", []),
-    })
+    seen = {}
+    for mention in entry.get("brands_mentioned", []):
+        brand = mention.get("brand")
+        if brand not in seen:
+            seen[brand] = {
+                "sentiment": mention.get("sentiment"),
+                "citations": set(mention.get("citations", [])),
+            }
+        else:
+            seen[brand]["citations"].update(mention.get("citations", []))
+    for brand, data in seen.items():
+        rows.append({
+            "prompt": prompt,
+            "category": category,
+            "model": "perplexity",
+            "brand": brand,
+            "sentiment": data["sentiment"],
+            "position": None,
+            "citations": list(data["citations"]),
+        })
+    
+    
 
 with open("combined_results.json", "w") as f:
     json.dump(rows, f, indent=2)
